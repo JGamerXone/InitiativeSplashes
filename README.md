@@ -14,7 +14,6 @@ Feel free to contact us (details on the website) about your issue.
 Alternatively, you could post your removal request on the issue tracker.
 
 If we accept your removal request, feel free to make a pull request removing the splash text in question.
-We will accept it and remove it for you.
 
 **Have fun,**
 
